@@ -53,5 +53,6 @@
 <p> Age : <%=age %></p>
 
 <h3>db로 전송완료</h3>
+<a href="userlist.jsp">회원 정보 보기</a>
 </body>
 </html>
